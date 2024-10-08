@@ -1,0 +1,8 @@
+{
+  "name": "Fedora",
+  "build": {
+    "context": "${workspaceFolder}",
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspace"
+}
