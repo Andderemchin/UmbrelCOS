@@ -1,2 +1,0 @@
-FROM fedora:latest
-WORKDIR /workspace
