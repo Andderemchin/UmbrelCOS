@@ -1,0 +1,8 @@
+{
+  "name": "Chromium",
+  "build": {
+    "context": "${workspaceFolder}",
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspace"
+}
